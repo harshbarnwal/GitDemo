@@ -1,1 +1,1 @@
-I am learning web development and currently I am practising to use Git and GitHub.
+This is the chapter 1 that I am going to commit in secondBranch and is different from master branch.
